@@ -3,4 +3,5 @@ A machine learning project using basic classification models. I and my friend wo
 
 # To fetch new news articles 
 run 1.news-articles-reader.py
-# To run the models , execute with respective program files
+# To run the models
+python file_name.py 
